@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    border: 0px;
+    box-sizing: border-box;
+}
+
+nav{
+    background-color: blue;
+    color: white;
+}
+
+.banner-section img{
+    width: 100%;
+    height: 400px;
+}
+.card{
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 20px;
+    
+}
+.card img{
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+  
+}
+.details fieldset{
+    width: 50%;
+    text-align: center;
+    padding: 20px;
+    margin: 20px auto;
+    box-shadow: 4px 4px 4px 5px gray;
+
+}
+form input,textarea{
+    width: 50%;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.category{
+    transition:transform 2s linear ;
+}
+.category:hover{
+ box-shadow: 5px 5px 5px 5px grey;
+ border-radius: 10px;
+ transform: rotateX('180deg');
+ 
+
+
+}
+
+
+
