@@ -1,12 +1,12 @@
 let products = [
-    { id: 1, name: "Cricket Ball", price: 1200, Quantity: 1, image: "/images/ball.jpg", category: "Ball" },
-    { id: 2, name: "Basket Ball", price: 800, Quantity: 1, image: "/images/ball.jpg", category: "Ball" },
-    { id: 3, name: "Volley Ball", price: 500, Quantity: 1, image: "/images/ball.jpg", category: "Ball" },
-    { id: 4, name: "Cricket Bat", price: 150, Quantity: 1, image: "/images/bat.jpg", category: "Bat" },
-    { id: 5, name: "Tennis Bat", price: 250, Quantity: 1, image: "/images/bat.jpg", category: "Bat" },
-    { id: 6, name: "Hockey Bat", price: 600, Quantity: 1, image: "/images/bat.jpg", category: "Bat" },
-    { id: 7, name: "T-Shirt", price: 100, Quantity: 1, image: "/images/sportsdress.jpg", category: "Sports Dress" },
-    { id: 8, name: "Track Pants", price: 50, Quantity: 1, image: "/images/sportsdress.jpg", category: "Sports Dress" }
+    { id: 1, name: "Cricket Ball", price: 1200, Quantity: 1, image: "./images/ball.jpg", category: "Ball" },
+    { id: 2, name: "Basket Ball", price: 800, Quantity: 1, image: "./images/ball.jpg", category: "Ball" },
+    { id: 3, name: "Volley Ball", price: 500, Quantity: 1, image: "./images/ball.jpg", category: "Ball" },
+    { id: 4, name: "Cricket Bat", price: 150, Quantity: 1, image: "./images/bat.jpg", category: "Bat" },
+    { id: 5, name: "Tennis Bat", price: 250, Quantity: 1, image: "./images/bat.jpg", category: "Bat" },
+    { id: 6, name: "Hockey Bat", price: 600, Quantity: 1, image: "./images/bat.jpg", category: "Bat" },
+    { id: 7, name: "T-Shirt", price: 100, Quantity: 1, image: "./images/sportsdress.jpg", category: "Sports Dress" },
+    { id: 8, name: "Track Pants", price: 50, Quantity: 1, image: "./images/sportsdress.jpg", category: "Sports Dress" }
 ];
 
 
